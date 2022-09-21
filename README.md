@@ -53,7 +53,7 @@
         <ul>
             <li><a href="#generic">Generic Products</a>
             </li>
-            <li><a href="#customized">Customized (or bespoke) software</a></ki>
+            <li><a href="#customized">Customized (or bespoke) Software</a></ki>
         </ul>
     </li>
     <li><a href="#important">Importance of Software Engineering</a></li>
@@ -95,7 +95,8 @@
     1. **Engineering discipline.** 
        - **Engineers** make things work. They apply theories, methods, and tools where these are appropriate. However, they use them selectively and always try to discover solutions to problems even when there are no applicable theories and methods. 
        - **Engineers** also recognize that they must work within organizational and financial constraints, and they must look for solutions within these constraints.
-    2. **All aspects of software production.** **Software engineering** is not just concerned with the **technical processes of software   development**. It also includes activities such as **software project management** and **development of tools**, **methods**, and **theories** to support software development.
+    2. **All aspects of software production.** 
+       - **Software engineering** is not just concerned with the **technical processes of software   development**. It also includes activities such as **software project management** and **development of tools**, **methods**, and **theories** to support software development.
 
 <div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
@@ -165,28 +166,28 @@
 
 - The systematic approach that is used in software engineering is sometimes called a **software process**. A **software process** is a **sequence of activities** that leads to the production of a software product. **Four fundamental activities are common to all software processes:**
 
-1. **Software Specification**
+1. **Software Specification:**
    - Where customers and engineers define the software that is to be produced and the constraints on its operation.
-2. **Software Development**
+2. **Software Development:**
    - Where the software is designed and programmed.
-3. **Software Validation**
+3. **Software Validation:**
    - Where the software is checked to ensure that it is what the customer requires.
-4. **Software Evolution**
+4. **Software Evolution:**
    - Where the software is modified to reflect changing customer and market requirements.
 
 <div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
 <h3 id="generic_process">Five Activities of a Generic Process framework:</h3>
 
-1. **Communication** 
+1. **Communication:** 
    - Communicate with customer to **understand objectives** and **gather requirements**.
-2. **Planning** 
+2. **Planning:** 
    - **Creates a “map”** defines the work by **describing the tasks**, **risks and resources**, **work products** and **work schedule**. 
-3. **Modeling** 
+3. **Modeling:** 
    - **Create a “sketch”**, what it looks like architecturally, how the constituent parts fit together and other characteristics. 
-4. **Construction** 
+4. **Construction:** 
    - **Code generation** and the **testing**. 
-5. **Deployment**
+5. **Deployment:**
    - Delivered to the customer who evaluates the products and provides feedback based on the evaluation. 
 
 - These five framework activities can be used to all software development regardless of the application domain, size of the project, complexity of the efforts etc, though the details will be different in each case. 
