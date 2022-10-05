@@ -143,7 +143,7 @@
 1. <span id="generic">**Generic Products**.</span> 
    - These are **stand-alone systems** that are produced by a development organization and sold on the open market to **any customer** who is able to buy them. 
    - Examples of this type of product include apps for mobile devices, software for PCs such as databases, word processors drawing packages, and project management tools. This kind of software also includes “vertical” applications designed for a specific market such as library information systems, accounting systems, or systems for maintaining dental records.
-
+<br>
 
 2. <span id="customized">**Customized (or bespoke) Software**.</span> 
    - These are systems that are commissioned by and developed for a **particular customer**. A software contractor designs and implements the software especially for that customer. 
@@ -154,6 +154,8 @@
 <h3 id="important">Software Engineering is important for two reasons:</h3>
 
 1.  More and more, individuals and society rely on advanced software systems. We need to be able to produce **reliable and trustworthy systems economically and quickly.**
+<br>
+
 2.  It is usually **cheaper, in the long run**, to use software engineering methods and techniques for software systems rather than just write programs as a personal programming project. Failure to use software engineering method leads to higher costs for testing, quality assurance, and long-term maintenance. For most types of system, the majority of costs, are the costs of changing the software after it has gone into use.
 
 <div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
@@ -161,8 +163,10 @@
 <h2 id="process">Software Process</h2>
 
 - A **process** is a **collection of activities**, **actions** and **tasks** that are performed when some work product is to be created. It is not a **rigid prescription** for how to build computer software. Rather, it is an adaptable approach that enables the people doing the work to pick and choose the appropriate set of work actions and tasks. 
+<br>
 
 - **Purpose of process** is to deliver software in a **timely manner** and with **sufficient quality** to satisfy those who have sponsored its creation and those who will use it. 
+<br>
 
 - The systematic approach that is used in software engineering is sometimes called a **software process**. A **software process** is a **sequence of activities** that leads to the production of a software product. **Four fundamental activities are common to all software processes:**
 
@@ -191,6 +195,72 @@
    - Delivered to the customer who evaluates the products and provides feedback based on the evaluation. 
 
 - These five framework activities can be used to all software development regardless of the application domain, size of the project, complexity of the efforts etc, though the details will be different in each case. 
+<br> 
 - For many software projects, these framework activities are applied iteratively as a project progresses. Each iteration produces a software increment that provides a subset of overall software features and functionality. 
 
 <div align="right"><a href="#top" targert="_blacnk"><img src="https://img.shields.io/badge/Back to up-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
+<h1 id="isit">Information Systems & Technology</h1>
+
+- An **information system (IS)** is an **arrangement of people**, **data**, **processes**, **communications**.
+<br>  
+
+- An **information system (IS)** is an **organized system** for the **collection**, **organization**, **storage** and **communication** of information.
+<br>
+
+- **Information technology** that **interact to support and improve** day-to-day operations in a **business**, as well as **support the problem-solving** and **decision-making needs of management and users**.
+<br>
+
+- **Information technology** is a **contemporary term** that **describes the combination** of **computer technology (hardware and software)** with **telecommunications technology (data, image, and voice networks)**.
+<br>
+
+<h1 id="stake">Who are the Stakeholder in system?</h1>
+
+- ### System Owners
+  - **System owners** are the **information system’s sponsors** and **chief advocates**. They are usually responsible for **funding the project to develop**, **operate**, and **maintain the information system**.
+  - **Who PAY for the system**.
+
+- ### System Users
+
+  - **System users** are the **people who use the information system** to perform their jobs. They are the **primary beneficiaries** of the information system.
+    - **Internal Users**:
+      - Clerical and service workers
+      - Technical and professional staff
+      - Supervisors, middle managers, and executive managers
+    - **External Users**:
+      - Do not directly work for the organization
+      - Perhaps these are direct consumers
+  <br>
+  #### Client Vs. User
+  - **Client** may be a **tool** like any **web browser** or may be any **desktop application**. A **user** is a **person** who will log into the client and consume or use the remote functionality exposed by the server    
+
+- ### System Designers and System Builders
+  - **System designers** **translate** system user's **business requirements** and **constraints** into **technical solutions**.
+  <br>
+
+  - They **design** the **computer files**, **databases**, **inputs**, **outputs**, **screens**, **networks**, and **programs** that will meet the system user's requirements. 
+  <br>
+
+  - **System builders** **construct** the **information system components** based on the **design** specifications from the system **designers**. 
+  <br>
+
+  - In many cases, the **system designer** and **builder** for a component are **one and the same**.
+
+- ### Systems Analysts
+  - A **systems analyst** studies the problems and needs of an organization to **determine how people**, **data**, **processes**, **communications**, and **information technology** can best accomplish improvements for the business.
+  <br> 
+
+  - #### Variations on the Systems Analysts Title
+    - A **business analyst** is a **systems analyst** that **specializes** in **business problem analysis** and **technology-independent** requirements analysis.
+    <br>
+
+    - A **programmer/analyst (or analyst/programmer)** includes the responsibilities of both the **computer programmer and the systems analyst**.
+
+  - #### Skills Required by Systems Analysts
+    - Working knowledge of information technology
+    - Computer programming experience and expertise
+    - General business knowledge
+    - Problem-solving skills
+    - Interpersonal communication skills
+    - Flexibility and adaptability
+    - Character and ethics
+    - Systems analysis and design skills 
